@@ -1,0 +1,10 @@
+{
+  "name": "ase-sesiunea-comunicari",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sesiunea de Comunicări Științifice — Facultatea de Marketing, ASE București. Frontend static, fără build.",
+  "scripts": {
+    "start": "node serve.mjs"
+  }
+}
